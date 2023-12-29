@@ -4,7 +4,7 @@
   "projectId": "b8583db9-449e-4adc-8428-0fa2b311e613",
   "sendCrashReports": "true",
   "terraformProviders": [
-    "hashicorp/aws@~> 5.31"
+    "docker"
   ],
   "terraformModules": [],
   "context": {}
