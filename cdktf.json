@@ -3,7 +3,9 @@
   "app": "npx ts-node main.ts",
   "projectId": "dd2bae89-7dae-4dcf-b3a2-40aad45aaa8d",
   "sendCrashReports": "true",
-  "terraformProviders": [],
+  "terraformProviders": [
+    "kreuzwerker/docker@~> 3.0"
+  ],
   "terraformModules": [],
   "context": {
 
