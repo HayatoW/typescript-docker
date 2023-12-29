@@ -20,7 +20,8 @@
     "node": ">=18.0"
   },
   "dependencies": {
-    "cdktf": "^0.20.0-pre.68",
+    "@cdktf/provider-docker": "10.0.0",
+    "cdktf": "^0.19.2",
     "constructs": "^10.3.0"
   },
   "devDependencies": {
